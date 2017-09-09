@@ -6,8 +6,8 @@
     <color name = "Tea_500"> #009688 </color>
     <color name = "Tea_700"> #00796B  </color>
     <color name = "Green_300"> #81C784  </color>
-    <color name = "Green_500"> #4CAF50  </color>
-    <color name = "TBlue_Grey_500"> #607D8B </color>
+    <color name = "Green_500">#4caf50</color>
+    <color name = "Blue_Grey_500"> #607D8B </color>
     <color name = "Blue_Grey_700"> #445A64  </color>
 
 
